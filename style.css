@@ -123,3 +123,13 @@ ion-icon[name="heart"] {
   margin-top: 2px;
   color: rgb(252, 8, 8);
 }
+
+@media (max-width: 500px) {
+    .header__title{
+        font-size: 3rem;
+    }
+
+    .menu a {
+        margin-right: 3rem;
+    }
+  }
